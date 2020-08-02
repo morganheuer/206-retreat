@@ -123,8 +123,8 @@ textarea {
    h4 {
      font-family: 'Poppins', sans-serif;
      font-weight: 500;
-     margin: 20px 0;
      font-size: 1.125em;
+     margin: 20px 0;
    }
 
    p {
@@ -369,11 +369,11 @@ textarea {
      About Page
      ========================================================================== */
   .mission {
+    background-color: #527158;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-flow: row wrap;
-    background-color: #527158;
   }
 
   .map figure {
@@ -408,11 +408,11 @@ textarea {
        FAQ Page
       ========================================================================== */
   .faq {
+    background-color: #527158;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-flow: row wrap;
-    background-color: #527158;
   }
 
   .faq .content-wrapper {
